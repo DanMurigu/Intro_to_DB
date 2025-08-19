@@ -15,7 +15,7 @@ CREATE TABLE Books (
 
 CREATE TABLE Authors (
     author_id INT PRIMARY KEY,
-    autor_name VARCHAR(215) NOT NULL,
+    author_name VARCHAR(215) NOT NULL,
 );
 
 CREATE TABLE Customers (
